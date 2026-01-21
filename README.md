@@ -18,20 +18,13 @@
 ### Скриншоты:
 
 #### Экран приветствия
-![Welcome Screen](screenshots/welcome.png)
+![Welcome Screen](https://github.com/Maria-Zin/quiz-trainer/blob/main/Welcome.jpg)
 
 #### Экран вопроса
-![Question Screen](screenshots/question.png)
+![Question Screen](https://github.com/Maria-Zin/quiz-trainer/blob/main/Question.jpg)
 
 #### Экран результата
-![Result Screen](screenshots/result.png)
-
-### Технологии:
-- Kotlin
-- Jetpack Compose
-- ViewModel
-- State Hoisting
-- Material Design 3
+![Result Screen](https://github.com/Maria-Zin/quiz-trainer/blob/main/Res.jpg)
 
 ### Как запустить:
 1. Клонировать репозиторий
